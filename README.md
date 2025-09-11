@@ -98,18 +98,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔸 [Portfolio Website](https://github.com/mohamed-samir-dev/portfolio)
-Modern, responsive portfolio showcasing my work and skills with smooth animations and optimal performance.
-
-### 🔸 [E-Commerce Website](https://github.com/mohamed-samir-dev/ecommerce)
-Full-featured e-commerce platform with modern UI/UX, shopping cart functionality, and responsive design.
-
-### 🔸 [TodoMaster App](https://github.com/mohamed-samir-dev/todomaster)
-Advanced task management application with intuitive interface and powerful productivity features.
-
----
 
 ## 📊 GitHub Analytics
 
