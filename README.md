@@ -1,57 +1,100 @@
-# Hi 👋, I'm Mohamed Samir
+<div align="center">
 
-🚀 **Frontend Developer | UI/UX Enthusiast | Web Performance Specialist**
+# 👋 Hi, I'm Mohamed Samir
 
-Passionate frontend developer with expertise in modern web technologies and user-centered design. I create responsive, accessible, and performant web applications that deliver exceptional user experiences.
+### 🚀 Senior Frontend Developer | UI/UX Architect | Performance Engineer
+
+*Crafting exceptional digital experiences through innovative web technologies*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/mohamed-samir-dev/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-samier-mouawad/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-samir-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mouawad18804)
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 💼 Professional Summary
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+🎯 **Experienced Frontend Developer** with 3+ years of expertise in building scalable, high-performance web applications  
+🏆 **Specialized in** React ecosystem, TypeScript, and modern UI/UX design principles  
+⚡ **Performance-focused** developer committed to delivering exceptional user experiences  
+🌍 **Accessibility advocate** ensuring inclusive design for all users  
 
-### Styling & UI Frameworks
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+---
 
-### State Management & Data
-- **State Management:** Redux, Context API, React Query
-- **API Integration:** RESTful APIs, GraphQL, JSON, Axios
-- **Data Fetching:** Advanced data fetching techniques and caching strategies
+## 🛠️ Technical Expertise
 
-### UI/UX Design
-- **Design Systems:** Responsive Design, Mobile-First Approach
-- **Accessibility:** WCAG 2.1 Compliance, Inclusive Design
-- **Prototyping:** Figma, Adobe XD
-- **User Experience:** User Interface Design, User Experience Design
+### 🎨 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### Performance & Optimization
-- **Web Performance:** Lazy Loading, Code Splitting, Bundle Size Minimization
-- **SEO:** Search Engine Optimization, Core Web Vitals
-- **Build Tools:** Webpack Optimization, Modern bundling techniques
+### 🎨 Styling & UI Frameworks
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Testing & Quality Assurance
-![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
-- **Testing Frameworks:** Jest, Unit Testing, Integration Testing
-- **Debugging:** Chrome DevTools, Browser Developer Tools
+### 🔄 State Management & APIs
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+**🔧 Advanced Capabilities:**
+- 🏗️ **State Architecture:** Redux Toolkit, Context API, Zustand
+- 🌐 **API Integration:** RESTful APIs, GraphQL, Real-time WebSockets
+- 📊 **Data Management:** Advanced caching strategies, Optimistic updates
 
-- **Version Control:** Git, GitHub
-- **Package Managers:** npm, Yarn
-- **Development Environment:** Visual Studio Code, Postman
-- **Design Tools:** Figma
+### 🎨 Design & User Experience
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+**🎯 Design Excellence:**
+- 📱 **Responsive Design:** Mobile-first, Cross-browser compatibility
+- ♿ **Accessibility:** WCAG 2.1 AA compliance, Screen reader optimization
+- 🎨 **Design Systems:** Component libraries, Style guides
+- 🔍 **User Research:** Usability testing, A/B testing
+
+### ⚡ Performance & Optimization
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**🚀 Performance Mastery:**
+- ⚡ **Core Web Vitals:** LCP, FID, CLS optimization
+- 🔄 **Code Splitting:** Dynamic imports, Lazy loading
+- 📦 **Bundle Optimization:** Tree shaking, Minification
+- 🔍 **SEO Excellence:** Meta optimization, Structured data
+
+### 🧪 Testing & Quality Assurance
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+**🔬 Quality Standards:**
+- 🧪 **Unit Testing:** Jest, React Testing Library
+- 🔄 **Integration Testing:** End-to-end testing with Cypress
+- 🐛 **Debugging:** Chrome DevTools, React DevTools
+
+### 🛠️ Development Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+**⚙️ Professional Workflow:**
+- 🔄 **Version Control:** Git workflows, Branch strategies
+- 📦 **Package Management:** npm, Yarn, Dependency optimization
+- 🚀 **CI/CD:** GitHub Actions, Automated deployments
+- 🔧 **Code Quality:** ESLint, Prettier, Husky hooks
 
 ---
 
