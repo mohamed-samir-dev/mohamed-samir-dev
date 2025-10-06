@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohamed Samir
 
-### 🚀 Senior Frontend Developer | UI/UX Architect | Performance Engineer
+### 🚀 Junior Frontend Developer | UI/UX Architect | Performance Engineer
 
 *Crafting exceptional digital experiences through innovative web technologies*
 
