@@ -86,16 +86,21 @@
 
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  
+
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-samir-dev&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-samir-dev&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-samir-dev&theme=radical&hide_border=true)
 
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamed-samir-dev&theme=radical)
+
 </div>
+
+
+
+
 
 
 
