@@ -77,12 +77,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-**🎯 Design Excellence:**
-- 📱 **Responsive Design:** Mobile-first, Cross-browser compatibility
-- ♿ **Accessibility:** WCAG 2.1 AA compliance, Screen reader optimization
-- 🎨 **Design Systems:** Component libraries, Style guides
-- 🔍 **User Research:** Usability testing, A/B testing
-
 ### ⚡ Performance & Optimization
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
