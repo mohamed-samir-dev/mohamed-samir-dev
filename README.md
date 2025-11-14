@@ -6,21 +6,15 @@
 
 *Crafting exceptional digital experiences through innovative web technologies*
 
-(https://my-frontend-portfolio-five.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-samier-mouawad/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-samir-dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mouawad18804)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-181717.svg?logo=github&logoColor=white)](https://my-frontend-portfolio-five.vercel.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1GZtCVVXwh/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/msamir.dev?igsh=b3Nra3hrd3QxMTc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-samier-mouawad/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Mouawad18804) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedsamiermouawad@gmail.com) 
 
 </div>
 
 ---
 
-## 💼 Professional Summary
-
-🎯 **Experienced Frontend Developer** with 3+ years of expertise in building scalable, high-performance web applications  
-🏆 **Specialized in** React ecosystem, TypeScript, and modern UI/UX design principles  
-⚡ **Performance-focused** developer committed to delivering exceptional user experiences  
-🌍 **Accessibility advocate** ensuring inclusive design for all users  
+# 💫 About Me:
+🎯 Experienced Frontend Developer with 1+ years of expertise in building scalable, high-performance web applications<br>🏆 Specialized in React ecosystem, TypeScript, and modern UI/UX design principles<br>⚡ Performance-focused developer committed to delivering exceptional user experiences<br>🌍 Accessibility advocate ensuring inclusive design for all users 
 
 ---
 
