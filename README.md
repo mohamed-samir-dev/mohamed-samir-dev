@@ -59,19 +59,20 @@
 [![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![CloudBees](https://img.shields.io/badge/CloudBees-1997B5?style=for-the-badge&logo=cloudbees&logoColor=white)](https://www.cloudbees.com/)
+
 ### 🧪 Testing
-[![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
 ### 🧰 Tools
 [![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
-
-
-**🔧 Advanced Capabilities:**
-- 🏗️ **State Architecture:** Redux Toolkit, Context API, Zustand
-- 🌐 **API Integration:** RESTful APIs, GraphQL, Real-time WebSockets
-- 📊 **Data Management:** Advanced caching strategies, Optimistic updates
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 ### 🎨 Design & User Experience
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -80,36 +81,6 @@
 ### ⚡ Performance & Optimization
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**🚀 Performance Mastery:**
-- ⚡ **Core Web Vitals:** LCP, FID, CLS optimization
-- 🔄 **Code Splitting:** Dynamic imports, Lazy loading
-- 📦 **Bundle Optimization:** Tree shaking, Minification
-- 🔍 **SEO Excellence:** Meta optimization, Structured data
-
-### 🧪 Testing & Quality Assurance
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
-**🔬 Quality Standards:**
-- 🧪 **Unit Testing:** Jest, React Testing Library
-- 🔄 **Integration Testing:** End-to-end testing with Cypress
-- 🐛 **Debugging:** Chrome DevTools, React DevTools
-
-### 🛠️ Development Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
-**⚙️ Professional Workflow:**
-- 🔄 **Version Control:** Git workflows, Branch strategies
-- 📦 **Package Management:** npm, Yarn, Dependency optimization
-- 🚀 **CI/CD:** GitHub Actions, Automated deployments
-- 🔧 **Code Quality:** ESLint, Prettier, Husky hooks
 
 ---
 
